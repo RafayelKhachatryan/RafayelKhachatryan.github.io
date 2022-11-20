@@ -1,0 +1,23 @@
+body{
+    background-color: yellow;
+}
+h1{
+    color: navy;
+    margin-left: 20px;
+}
+#p1{
+    color: red;
+}
+.p2{
+    color: rgba(0, 0, 255, 0.334);
+}
+body{
+    font-family: Impact, Helvetica, sans-serif;
+    font-size: 18px;
+    font-style: italic;
+    font-variant: normal;
+    text-indent: 20px;
+}
+a:visited{  
+    color: blue;
+}
